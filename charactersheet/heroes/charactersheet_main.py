@@ -1,6 +1,6 @@
 import math
 import random
-# #Make variables to shorten the code
+# Make variables to shorten the code
 
 
 dice = {
@@ -38,7 +38,7 @@ hero_stats = [
       "mage_strength" : 3,
       "mage_agi" : 4,
       "mage_con" : 5,
-      "mage_spr" : 1,
+      "mage_spr" : 12,
       "mage_hp" : 18,
       "btl_speed": dice['1d20'] + 2
     }

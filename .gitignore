@@ -2,3 +2,5 @@ testing/
 first_design/
 imagesForTerrain/
 basicinfo.xlsx/
+node_modules/
+../enemyStats.ps/
